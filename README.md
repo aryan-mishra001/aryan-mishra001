@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Aryan mishra, a first year postgrad student pursuing masters in computer applications from LNCT group of colleges.
+I am Aryan mishra, a Second year postgrad student pursuing masters in computer applications from LNCT group of colleges.
 
 - 🔭 I’m currently working on building my portfolio.
 - 🌱 I’m currently learning frontedn development
